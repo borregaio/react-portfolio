@@ -37,7 +37,7 @@ The deployed version can be accessed [here](https://master--carlos-react-portfol
 ### Projects Page
 
 - Dynamically renders six instances of the Project component.
-- Project details are stored in a JSON file and imported into your project.
+- Project details are stored in a JSON file and imported into the Project component.
 
 ### Project Component
 
@@ -47,13 +47,13 @@ The deployed version can be accessed [here](https://master--carlos-react-portfol
   - Project title
   - Link to the deployed version
   - Link to the GitHub repository
-  - GIF or screenshot of the deployed application
+  - Screenshot of the deployed application
 
 ### Contact Page
 
 - Includes contact information:
   - Email address
-  - Link to a PDF version of your CV
+  - Link to a PDF version of CV
   - Link to your GitHub profile
   - Link to your LinkedIn page
 - Features a contact form for handling events.
@@ -178,7 +178,7 @@ These features collectively create a comprehensive and dynamic portfolio website
     );
     ```
 
-- **Project details are stored in a JSON file and imported into your project.**
+- **Project details are stored in a JSON file and imported into the Project component.**
 
     ```javascript
         {
@@ -211,7 +211,7 @@ These features collectively create a comprehensive and dynamic portfolio website
 
 - **The Contact page includes contact information:**
   - Email address
-  - Link to a PDF version of your CV
+  - Link to a PDF version of CV
   - Link to your GitHub profile
   - Link to your LinkedIn page
 
