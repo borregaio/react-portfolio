@@ -7,7 +7,7 @@ import projectsData from './projectsData.json';
 const Projects = () => (
   <div>
     <Header />
-    <div className="container-fluid">
+    <div className="container-fluid projects">
     <h1 className="m-5">Projects</h1>
     {projectsData.map(project => (
       <Project key={project.id} {...project} />
