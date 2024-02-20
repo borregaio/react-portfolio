@@ -41,7 +41,7 @@ const Contact = () => {
               <Link to="mailto:c.borrega@proton.me" className="list-group-item list-group-item-action" aria-current="true">
                 c.borrega@proton.me
               </Link>
-              <Link to="mailto:c.borrega@proton.me" className="list-group-item list-group-item-action" aria-current="true">
+              <Link to="https://drive.google.com/file/d/1AfhdNU2lRLLAt0Rf49UK2_zbpZejf63X/view?usp=sharing" download="resume.pdf" className="list-group-item list-group-item-action" aria-current="true">
                 Download my resume
               </Link>
               <Link to="https://www.linkedin.com/in/carlosborrega/" className="list-group-item list-group-item-action" aria-current="true">

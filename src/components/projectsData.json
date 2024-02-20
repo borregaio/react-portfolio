@@ -1,44 +1,42 @@
 [
     {
         "id": 1,
+        "title": "Work Day Scheduler",
+        "deployedLink": "https://borregaio.github.io/workday-scheduler/",
+        "githubLink": "https://github.com/borregaio/workday-scheduler",
+        "screenshot": "https://i.ibb.co/tH6v5cv/3.png"
+    },
+    {
+        "id": 2,
+        "title": "Weather Dashboard",
+        "deployedLink": "https://borregaio.github.io/weather-dashboard/",
+        "githubLink": "https://github.com/borregaio/weather-dashboard",
+        "screenshot": "https://i.ibb.co/pfZbFb1/2.png"
+    },
+    {
+        "id": 3,
+        "title": "Quiz",
+        "deployedLink": "https://borregaio.github.io/quiz/",
+        "githubLink": "https://github.com/borregaio/quiz",
+        "screenshot": "https://i.ibb.co/YRmyLP8/5.png"
+    },
+    {
+        "id": 4,
+        "title": "Bookflix",
+        "deployedLink": "https://borregaio.github.io/bookflix/",
+        "githubLink": "https://github.com/borregaio/bookflix",
+        "screenshot": "https://i.ibb.co/FWZNmv3/1.png"
+    },
+    {
+        "id": 5,
         "title": "Team Profile Generator",
-        "deployedLink": "N/A",
         "githubLink": "https://github.com/borregaio/team-profile-generator",
         "screenshot": "https://i.ibb.co/64yJzhK/team-profile-generator.png"
     },
     {
-        "id": 2,
-        "title": "Project 2",
-        "deployedLink": "https://example.com/project2",
-        "githubLink": "https://github.com/username/project2",
-        "screenshot": "path/to/project2-screenshot.png"
-    },
-    {
-        "id": 3,
-        "title": "Project 2",
-        "deployedLink": "https://example.com/project2",
-        "githubLink": "https://github.com/username/project2",
-        "screenshot": "path/to/project2-screenshot.png"
-    },
-    {
-        "id": 4,
-        "title": "Project 2",
-        "deployedLink": "https://example.com/project2",
-        "githubLink": "https://github.com/username/project2",
-        "screenshot": "path/to/project2-screenshot.png"
-    },
-    {
-        "id": 5,
-        "title": "Project 2",
-        "deployedLink": "https://example.com/project2",
-        "githubLink": "https://github.com/username/project2",
-        "screenshot": "path/to/project2-screenshot.png"
-    },
-    {
         "id": 6,
-        "title": "Project 2",
-        "deployedLink": "https://example.com/project2",
-        "githubLink": "https://github.com/username/project2",
-        "screenshot": "path/to/project2-screenshot.png"
+        "title": "README Generator",
+        "githubLink": "https://github.com/borregaio/readme-generator",
+        "screenshot": "https://i.ibb.co/X7DLrLB/Screenshot-2024-02-20-124801.png"
     }
 ]
