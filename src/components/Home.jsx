@@ -2,7 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../styles.css';
 import Header from './Header';
-import profileImage from './images/profile.png';
+import profileImage from '../images/profile.png';
 
 const Home = () => {
   return (
