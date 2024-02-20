@@ -22,7 +22,7 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Handle form submission logic (you can send the data to a server or perform any other action)
+    // Handle form submission logic
     console.log('Form submitted:', formData);
 
     // Reset form after submission
@@ -34,7 +34,7 @@ const Contact = () => {
       <Header />
       <div className="container">
         <div className="row">
-          {/* First Column - List */}
+          {/* First Column - Links */}
           <div className="col-md-6">
           <h1 className="m-5">Contact links</h1>
             <div className="list-group m-5" style={{ maxWidth: "300px" }}>

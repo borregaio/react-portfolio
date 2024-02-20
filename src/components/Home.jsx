@@ -15,7 +15,6 @@ const Home = () => {
         <img src={profileImage} alt="Profile" className="profile-image" />
       </div>
     </div>
-
   );
 };
 
