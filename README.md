@@ -8,7 +8,7 @@ This is a React-based portfolio website designed to showcase your skills, projec
 
 ## Deployment
 
-The deployed version can be accessed [here](https://master--carlos-react-portfolio.netlify.app/).
+The deployed version can be accessed [here](https://65d4ac03f141ecdf3e62478a--carlos-react-portfolio.netlify.app/).
 
 ## Tech Stack
 
