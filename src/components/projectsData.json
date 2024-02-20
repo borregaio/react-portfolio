@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Team Profile Generator",
+        "deployedLink": "N/A",
+        "githubLink": "https://github.com/borregaio/team-profile-generator",
+        "screenshot": "https://i.ibb.co/64yJzhK/team-profile-generator.png"
+    },
+    {
+        "id": 2,
+        "title": "Project 2",
+        "deployedLink": "https://example.com/project2",
+        "githubLink": "https://github.com/username/project2",
+        "screenshot": "path/to/project2-screenshot.png"
+    },
+    {
+        "id": 3,
+        "title": "Project 2",
+        "deployedLink": "https://example.com/project2",
+        "githubLink": "https://github.com/username/project2",
+        "screenshot": "path/to/project2-screenshot.png"
+    },
+    {
+        "id": 4,
+        "title": "Project 2",
+        "deployedLink": "https://example.com/project2",
+        "githubLink": "https://github.com/username/project2",
+        "screenshot": "path/to/project2-screenshot.png"
+    },
+    {
+        "id": 5,
+        "title": "Project 2",
+        "deployedLink": "https://example.com/project2",
+        "githubLink": "https://github.com/username/project2",
+        "screenshot": "path/to/project2-screenshot.png"
+    },
+    {
+        "id": 6,
+        "title": "Project 2",
+        "deployedLink": "https://example.com/project2",
+        "githubLink": "https://github.com/username/project2",
+        "screenshot": "path/to/project2-screenshot.png"
+    }
+]

@@ -36,7 +36,7 @@ const Contact = () => {
         <div className="row">
           {/* First Column - List */}
           <div className="col-md-6">
-          <h4 className="m-5">Contact links</h4>
+          <h1 className="m-5">Contact links</h1>
             <div className="list-group m-5" style={{ maxWidth: "300px" }}>
               <Link to="mailto:c.borrega@proton.me" className="list-group-item list-group-item-action" aria-current="true">
                 c.borrega@proton.me
@@ -55,7 +55,7 @@ const Contact = () => {
 
           {/* Second Column - Form */}
           <div className="col-md-6">
-            <h4 className="m-5">Send me a message</h4>
+            <h1 className="m-5">Send me a message</h1>
             <form onSubmit={handleSubmit} className="m-5" style={{ maxWidth: "300px" }}>
               <div className="form-group p-2">
                 <label htmlFor="name">Name:</label>
