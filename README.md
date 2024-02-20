@@ -29,10 +29,10 @@ The deployed version can be accessed [here](https://master--carlos-react-portfol
 ### Home Page
 
 - A welcoming landing page that includes:
-  - Your Name
-  - A headshot of you (or an avatar)
-  - Your brand statement
-  - Some indication that this is your portfolio site
+  - Name
+  - A headshot
+  - Brand statement
+  - Some indication that this is a portfolio site
 
 ### Projects Page
 
@@ -141,10 +141,10 @@ These features collectively create a comprehensive and dynamic portfolio website
     ```
 
 - **A welcoming landing page that includes:**
-  - Your Name
-  - A headshot of you (or an avatar)
-  - Your brand statement
-  - Some indication that this is your portfolio site
+  - Name
+  - A headshot
+  - Brand statement
+  - Some indication that this is a portfolio site
 
     ```javascript
     const Home = () => {
